@@ -1,4 +1,4 @@
-# Manual de Pecas
+# Cadastro de Equipamentos e Peças
  Cadastro de peças para equipamentos em documeto TXT
 
  Projeto autoproposto com intuito de aplicar e consolidar conhecimentos
