@@ -8,4 +8,3 @@
  para consulta do usuario.
 
 O programa principal é o cadastro.py
-O executavél está na pasta dist
